@@ -1,4 +1,4 @@
-# Dumb Units Converter/Calculator
+# Animal Units Converter/Calculator
 
 ### Metric or imperial units are boring. Why not use 🐘 or maybe 🦓 to represent weight? And what about trees big as 🦒🦒🦒?
 
@@ -6,4 +6,4 @@ Below is concept created in Affinity Designer for weight. It should be semi-accu
 
 I wanted to include 🦖 but could not find reliable data about its weight 🙃
 
-![](ConceptImages/DumbUnitsConverter.png)
+![](ConceptImages/AnimalUnitsConverter.png)

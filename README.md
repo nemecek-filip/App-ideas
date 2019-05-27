@@ -20,10 +20,10 @@ Get in touch on Twitter - [@nemecek_f](https://twitter.com/nemecek_f)
 
 _Hope to add more in the future_
 
-- [Animal Units Converter](Animal Units Converter.md) _[concept image]_ - convert weight to 🐘, 🦓 and more
+- [Animal Units Converter](Animal-Units-Converter.md) _[concept image]_ - convert weight to 🐘, 🦓 and more
 
-- [Auto Meme with Vision](Auto Meme with Vision.md) - use powerful `Vision` framework to streamline the meme process
+- [Auto Meme with Vision](Auto-Meme-with-Vision.md) - use powerful `Vision` framework to streamline the meme process
 
-- [Coupons tracker](Coupons tracker.md) _[concept image]_ - track all discount coupons with useful features
+- [Coupons tracker](Coupons.md) _[concept image]_ - track all discount coupons with useful features
 
-- [Watch Notes](Watch Notes.md) _[concept image]_ - important notes always on your wrist
+- [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist

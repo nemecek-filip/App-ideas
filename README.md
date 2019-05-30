@@ -12,7 +12,7 @@ Some ideas are purely textual, for some I created simple concept images which ar
 
 **Feel free to use any idea, concept** to create new app and launch it in the AppStore. No attribution required, however I would love to see how the ideas look as finished app.
 
-Get in touch on Twitter - [@nemecek_f](https://twitter.com/nemecek_f)
+Get in touch on Twitter - [@nemecek_f](https://twitter.com/nemecek_f) to discuss ideas below, some other ideas or just chat :-)
 
 --- 
 
@@ -25,5 +25,7 @@ _Hope to add more in the future_
 - [Auto Meme with Vision](Auto-Meme-with-Vision.md) - use powerful `Vision` framework to streamline the meme process
 
 - [Coupons tracker](Coupons-tracker.md) _[concept image]_ - track all discount coupons with useful features
+
+- [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing
 
 - [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist

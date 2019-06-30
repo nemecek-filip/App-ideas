@@ -26,6 +26,8 @@ _Hope to add more in the future_
 
 - [Coupons tracker](Coupons-tracker.md) _[concept image]_ - track all discount coupons with useful features
 
+- [Image Compressor for sharing](Image-Compressor-for-Sharing.md) - allow users to quickly compress image before sending to save data plan
+
 - [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing
 
 - [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist

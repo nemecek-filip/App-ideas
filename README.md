@@ -28,6 +28,8 @@ _Hope to add more in the future_
 
 - [Image Compressor for sharing](Image-Compressor-for-Sharing.md) - allow users to quickly compress image before sending to save data plan
 
+- [Timelapse from photos](Loong-timelapse.md) - let user create video timelapse from pictures so the timelapse isnt constrained to single recording
+
 - [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing
 
 - [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist
@@ -35,3 +37,8 @@ _Hope to add more in the future_
 ---
 
 ![](ConceptImages/preview.png)
+
+---
+## Loong timelapse
+
+![](ConceptImages/looong-timelapse.png)

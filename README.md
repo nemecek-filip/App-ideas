@@ -20,7 +20,7 @@ Get in touch on Twitter - [@nemecek_f](https://twitter.com/nemecek_f) to discuss
 
 _Hope to add more in the future_
 
-- [Animal Units Converter](Animal-Units-Converter.md) _[concept image]_ - convert weight to 🐘, 🦓 and more
+- **[Animal Units Converter](Animal-Units-Converter.md)** _[concept image]_ - convert weight to 🐘, 🦓 and more
 
 - [Auto Meme with Vision](Auto-Meme-with-Vision.md) - use powerful `Vision` framework to streamline the meme process
 
@@ -28,7 +28,7 @@ _Hope to add more in the future_
 
 - [Image Compressor for sharing](Image-Compressor-for-Sharing.md) - allow users to quickly compress image before sending to save data plan
 
-- [Timelapse from photos](Loong-timelapse.md) - let user create video timelapse from pictures so the timelapse isnt constrained to single recording
+- **[Timelapse from photos](Loong-timelapse.md)**  _[concept image]_ - let user create video timelapse from pictures so the timelapse isnt constrained to single recording
 
 - [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing
 
@@ -39,6 +39,6 @@ _Hope to add more in the future_
 ![](ConceptImages/preview.png)
 
 ---
-## Loong timelapse
+## Looong timelapse
 
 ![](ConceptImages/looong-timelapse.png)

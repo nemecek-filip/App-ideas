@@ -32,6 +32,8 @@ _Hope to add more in the future_
 
 - [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing
 
+- [Trip Helper](Trip-helper.md) - never forget stuff to pack for travel
+
 - [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist
 
 ---

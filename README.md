@@ -28,6 +28,8 @@ _Hope to add more in the future_
 
 - [Image Compressor for sharing](Image-Compressor-for-Sharing.md) - allow users to quickly compress image before sending to save data plan
 
+- [Sharing photos to Apple TV](Image-Sharing-to-Apple-TV.md) - let users easily share photos to Apple TV, the current AirPlay solution in iOS is cumbersome
+
 - **[Timelapse from photos](Loong-timelapse.md)**  _[concept image]_ - let user create video timelapse from pictures so the timelapse isnt constrained to single recording
 
 - [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing

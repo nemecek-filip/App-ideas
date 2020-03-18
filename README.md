@@ -32,6 +32,8 @@ _Hope to add more in the future_
 
 - **[Timelapse from photos](Loong-timelapse.md)**  _[concept image]_ - let user create video timelapse from pictures so the timelapse isnt constrained to single recording
 
+- [Timezone based reminders](Timezone-reminders.md) - for better remote work experience
+
 - [Tooth Watch](Tooth-Watch.md) - watchOS app for better teeth brushing
 
 - [Trip Helper](Trip-helper.md) - never forget stuff to pack for travel

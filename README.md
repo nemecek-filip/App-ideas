@@ -1,6 +1,16 @@
-# APP IDEAS
+<p align="center">
+  <a href="https://github.com/nemecek-filip/DynamicType-ReferenceApp">Dynamic Type</a> &bull;
+  <a href="https://github.com/nemecek-filip/EKEventKit.Example">Event Kit</a> &bull;
+  <a href="https://github.com/nemecek-filip/QLPreviewController.Example">Quick Look</a>  	&bull;
+  <b>App Ideas</b>
+</p>
+
+----
+# App Ideas
 
 ### Collection of ideas for iOS apps that I don't plan to build (probably)..
+
+[![Twitter: @nemecek_f](https://img.shields.io/badge/contact-@nemecek_f-blue.svg?style=flat)](https://twitter.com/nemecek_f)
 
 --- 
 

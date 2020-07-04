@@ -50,6 +50,8 @@ _Hope to add more in the future_
 
 - [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist
 
+- [Yoga/fitness](Yoga-fitness.md) - use the new `Vision` APIs in iOS 14 to help people exercise correctly.
+
 ---
 
 ![](ConceptImages/preview.png)

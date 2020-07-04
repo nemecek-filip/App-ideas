@@ -1,3 +1,3 @@
-#Yoga/fitness app
+# Yoga/fitness app
 
 With the new full-body tracking available in `Vision` framework I think it could work very well with yoga or more general fitness app that would tell the user whether they are doing the exercises correctly. The phone camera could be pointer at the user and somehow stream (via AirPlay?) video to Apple TV that would show what the ideal yoga pose should look like and how the user is currently standing.

@@ -36,6 +36,8 @@ _Hope to add more in the future_
 
 - [Coupons tracker](Coupons-tracker.md) _[concept image]_ - track all discount coupons with useful features
 
+- [Friend finder](friend-finder.md) - use the new `NearbyInteraction` to let users find their friends in crowds
+
 - [Image Compressor for sharing](Image-Compressor-for-Sharing.md) - allow users to quickly compress image before sending to save data plan
 
 - [Sharing photos to Apple TV](Image-Sharing-to-Apple-TV.md) - let users easily share photos to Apple TV, the current AirPlay solution in iOS is cumbersome

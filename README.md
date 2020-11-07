@@ -38,12 +38,14 @@ _Hope to add more in the future_
 
 - [Friend finder](friend-finder.md) - use the new `NearbyInteraction` to let users find their friends in crowds
 
+- [FitLock](fit-lock.md) - app that locks features/app until you exercise
+
 - [Image Compressor for sharing](Image-Compressor-for-Sharing.md) - allow users to quickly compress image before sending to save data plan
 
 - [Practical Color Picker](practical-color-picker.md) - picking colors with HSL with context for better experience
 
 - [Photos organizer](photos-organizer.md) - easy and quick wait to organize photos into albums
-- 
+ 
 - [Sharing photos to Apple TV](Image-Sharing-to-Apple-TV.md) - let users easily share photos to Apple TV, the current AirPlay solution in iOS is cumbersome
 
 - **[Timelapse from photos](Loong-timelapse.md)**  _[concept image]_ - let user create video timelapse from pictures so the timelapse isnt constrained to single recording

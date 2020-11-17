@@ -45,6 +45,8 @@ _Hope to add more in the future_
 - [Practical Color Picker](practical-color-picker.md) - picking colors with HSL with context for better experience
 
 - [Photos organizer](photos-organizer.md) - easy and quick wait to organize photos into albums
+
+- [PrivateCam](private-cam.md) - private camera and photo album
  
 - [Sharing photos to Apple TV](Image-Sharing-to-Apple-TV.md) - let users easily share photos to Apple TV, the current AirPlay solution in iOS is cumbersome
 

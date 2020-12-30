@@ -2,7 +2,8 @@
   <a href="https://github.com/nemecek-filip/DynamicType-ReferenceApp">Dynamic Type</a> &bull;
   <a href="https://github.com/nemecek-filip/EKEventKit.Example">Event Kit</a> &bull;
   <a href="https://github.com/nemecek-filip/QLPreviewController.Example">Quick Look</a>  	&bull;
-  <b>App Ideas</b>
+  <b>App Ideas</b>   	&bull;
+  <a href="https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios">Modern Collection Views</a>
 </p>
 
 ----

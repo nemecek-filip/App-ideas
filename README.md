@@ -51,6 +51,8 @@ _Hope to add more in the future_
  
 - [Sharing photos to Apple TV](Image-Sharing-to-Apple-TV.md) - let users easily share photos to Apple TV, the current AirPlay solution in iOS is cumbersome
 
+- **Short Shower** - app that automatically tracks your time in shower analyzing the sound. With current Machine Learning APIs this could be done on-device. The goal is to encourage less water use by making people conscious of the time they spend showering
+
 - **[Timelapse from photos](Loong-timelapse.md)**  _[concept image]_ - let user create video timelapse from pictures so the timelapse isnt constrained to single recording
 
 - [Timezone based reminders](Timezone-reminders.md) - for better remote work experience
@@ -62,6 +64,8 @@ _Hope to add more in the future_
 - [Universal Links Checker](universal-links-checker.md) - automate universal links validation
 
 - [Watch Notes](Watch-Notes.md) _[concept image]_ - important notes always on your wrist
+
+- **Watch Measure** - With iOS 15 and watchOS 8 it should be possible to get distance between your phone and Watch. With this app, you would place your phone on a point A, walked over to point B and see the distance on your Watch.
 
 - [Yoga/fitness](Yoga-fitness.md) - use the new `Vision` APIs in iOS 14 to help people exercise correctly.
 

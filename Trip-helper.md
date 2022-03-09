@@ -2,7 +2,7 @@
 
 ## This is really simple and straightforward app.
 
-### First step for the user would be to define trips (like short one, weekly trip, monthly maybe?) and then list items that are must have forgiven trip.
+### First step for the user would be to define trips (like short one, weekly trip, monthly maybe?) and then list items that are must have for any given trip.
 
 ### The app would then create new to-do list based on the selected trip and the items added to it.
 

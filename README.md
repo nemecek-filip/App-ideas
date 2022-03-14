@@ -29,13 +29,16 @@ Get in touch on Twitter - [@nemecek_f](https://twitter.com/nemecek_f) to discuss
 
 ## Ideas (so far)
 
-_Hope to add more in the future_
+_Hope to add more in the future_. Started ordering from Newest to Oldest since March 2022.
+
+- **Contact share** - Quickly share single contact with someone using a QR code. The app would first present built-in contact picker to select contact and then you could select which fields to share (perhaps you want to share just person's name and email, not phone number). Generated QR code would then be shown on the display.
 
 - **[Animal Units Converter](Animal-Units-Converter.md)** _[concept image]_ - convert weight to 🐘, 🦓 and more
 
 - [Auto Meme with Vision](Auto-Meme-with-Vision.md) - use powerful `Vision` framework to streamline the meme process
 
 - [Coupons tracker](Coupons-tracker.md) _[concept image]_ - track all discount coupons with useful features
+
 
 - [Friend finder](friend-finder.md) - use the new `NearbyInteraction` to let users find their friends in crowds
 

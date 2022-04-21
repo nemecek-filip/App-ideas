@@ -17,7 +17,7 @@
 
 # Welcome
 
-I created this repository because I have more ideas for iOS apps than I have time and appetite to execute on them and bring them to AppStore. So I decided to at least share those.
+I created this repository because I have more ideas for iOS apps than I have time and appetite to execute on them and bring them to App Store. So I decided to at least share those.
 
 Some ideas are purely textual, for some I created simple concept images which are included. Some ideas are likely very bad and don't make sense or are already implemented.
 
@@ -31,7 +31,13 @@ Get in touch on Twitter - [@nemecek_f](https://twitter.com/nemecek_f) to discuss
 
 _Hope to add more in the future_. Started ordering from Newest to Oldest since March 2022.
 
+- **Route Tracker** - Track routes while walking without any health stuff. Main use case to visualize your most frequent routes in the cities you live or when visiting new city, you would be able to see after a day or two the places you haven't walked through yet.
+
+- **Photo Relive AR** - Use ARKit to "relive" past pictures on the same spots you initially took them. So perhaps the initial screen would be map view with photos took near and then on the same spot, you would turn on the camera and use some "magic" to find the exact spot in 3D place and use ARKit to place vertical plane with the picture on the same spot.
+
+
 - **Contact share** - Quickly share single contact with someone using a QR code. The app would first present built-in contact picker to select contact and then you could select which fields to share (perhaps you want to share just person's name and email, not phone number). Generated QR code would then be shown on the display.
+
 
 - **[Animal Units Converter](Animal-Units-Converter.md)** _[concept image]_ - convert weight to 🐘, 🦓 and more
 
